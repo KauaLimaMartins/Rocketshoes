@@ -1,2 +1,0 @@
-[0421/140633.007:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
-[0421/140633.276:ERROR:exception_snapshot_win.cc(98)] thread ID 4688 not found in process
